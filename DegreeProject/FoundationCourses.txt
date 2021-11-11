@@ -1,0 +1,321 @@
+ENG 109	Composition and Rhetoric for Second-Language Writers	4	I
+ENG 111	Composition and Rhetoric	3	I
+ARC 107	Global Design	3	IIA
+ARC 188	Ideas in Architecture	3	IIA
+ARC 221	History of Architecture I	3	IIA
+ARC 222	History of Architecture II	3	IIA
+ART 162	Arts of Africa, Oceania and Native America	3	IIA
+ART 181	Concepts in Art	3	IIA
+ART 187	History of Western Art: Prehistoric-Gothic	3	IIA
+ART 188	History of Western Art: Renaissance - Modern	3	IIA
+ART 189	History of Western Dress	3	IIA
+ART 195	Introduction to Art Education	3	IIA
+ART 233	Global Perspectives on Dress	3	IIA
+ART 256	Design, Perception & Audience	3	IIA
+ART 283	Modern America	3	IIA
+ART 286	History of Asian Art, China, Korea, and Japan	3	IIA
+CCA 111	Innovation, Creativity and Design Thinking	3	IIA
+CCA 121	Introduction to the Integrated Arts and Culture	3	IIA
+FAS 281	Contemporary Fashion History of 20th-21st Century	3	IIA
+IMS 254	Design Thinking & Design Principles Applied	3	IIA
+MUS 182	Discovering Italian Opera	3	IIA
+MUS 184	Opera: Passport to the Liberal Arts	3	IIA
+MUS 185	The Diverse Worlds of Music	3	IIA
+MUS 186	Global Popular Music	3	IIA
+MUS 189	Great Ideas in Western Music	3	IIA
+MUS 206	Tracking Sounds: A History of Film Music	3	IIA
+MUS 211	History of Western Music	3	IIA
+MUS 225	And the Beat Goes On. . . The History of Rock and Roll	3	IIA
+MUS 285	Introduction to African American Music	3	IIA
+MUS 287	Enter the Diva: Women in Music	3	IIA
+THE 123	Acting for the Non-Major: Text and Performance	3	IIA
+THE 191	Experiencing Theatre	3	IIA
+THE 257	Stagecraft and Theatre Technologies	3	IIA
+AAA 201	Introduction to Asian/ Asian American Studies	3	IIB
+AMS 205	Introduction to American Cultures	3	IIB
+AMS 207	America: Global and Intercultural Perspectives	3	IIB
+ARC 188	Ideas in Architecture	3	IIB
+ARC 221	History of Architecture I	3	IIB
+ARC 222	History of Architecture II	3	IIB
+ART 187	History of Western Art: Prehistoric-Gothic	3	IIB
+ART 188	History of Western Art: Renaissance - Modern	3	IIB
+ART 189	History of Western Dress	3	IIB
+ART 283	Modern America	3	IIB
+ART 286	History of Asian Art, China, Korea, and Japan	3	IIB
+CHI 251	Traditional Chinese Literature in English Translation	3	IIB
+CHI 252	Modern Chinese Literature in English Translation	3	IIB
+CHI 257	Chinese Satire	3	IIB
+CLS 101	Greek Civilization in its Mediterranean Context	3	IIB
+CLS 102	Roman Civilization	3	IIB
+CLS 121	Introduction to Classical Mythology	3	IIB
+CRE 151	Introduction to Critical Race and Ethnic Studies	3	IIB
+EDL 204	Sociocultural Studies in Education	3	IIB
+EDL 351	Leadership Ethics in Community Contexts	3	IIB
+ENG 121	Literature for ESL Learners	3	IIB
+ENG 122	Popular Literature	3	IIB
+ENG 123	Introduction to Poetry	3	IIB
+ENG 124	Introduction to Fiction	3	IIB
+ENG 125	Introduction to Drama	3	IIB
+ENG 129	Books You Need To Read	3	IIB
+ENG 134	Introduction to Shakespeare	3	IIB
+ENG 163	Literature and Travel	3	IIB
+ENG 169	Disability and Literature	3	IIB
+ENG 202	Varieties of English: Dialect Diversity and Language Change	3	IIB
+ENG 237	GLBTQ Literature	3	IIB
+ENG 251	Introduction to European Literature	3	IIB
+ENG 263	Literature and Medicine	3	IIB
+ENG 269	Colonial & Postcolonial Literature	3	IIB
+ENG 272	English Literature to 1660	3	IIB
+ENG 273	English Literature 1660-1900	3	IIB
+ENG 274	English Literature 1901 to Present	3	IIB
+ENG 275	American Literature to 1900	3	IIB
+ENG 276	American Literature 1900 to the Present	3	IIB
+FAS 281	Contemporary Fashion History of 20th-21st Century	3	IIB
+FRE 131	Masterpieces of French Culture in Translation	3	IIB
+FRE 202	Critical Analysis of French Culture	3	IIB
+FST 201	Film History and Analysis	3	IIB
+GER 151	The German-American Experience	3	IIB
+GER 231	Folk and Literary Fairy Tales	3	IIB
+GER 232	The Holocaust in German Literature, History, and Film	3	IIB
+GER 252	The German-Jewish Experience	3	IIB
+GER 321	Cultural Topics in German-Speaking Europe Since 1870	3	IIB
+GER 322	Comparative Study of Everyday Culture: German-Speaking Europe and the U.S.A.	3	IIB
+GIC 101	Global and Intercultural Studies	3	IIB
+GIC 301	Approaches to Global and Intercultural Studies: Globalization and Belonging	3	IIB
+HST 111	Survey of American History	3	IIB
+HST 112	Survey of American History	3	IIB
+HST 197	World History to 1500	3	IIB
+HST 198	World History Since 1500	3	IIB
+HST 231	Genocides in the 20th Century	3	IIB
+HST 238	Food in History	3	IIB
+HST 245	Making of Modern Europe, 1450-1750	3	IIB
+HST 296	World History Since 1945	3	IIB
+IMS 201	Information Studies and Digital Citizenship	3	IIB
+IMS 203	Applied Digital Humanities	3	IIB
+IMS 211	Introduction to Game Studies	3	IIB
+ITL 221	Italy, Matrix of Civilization	3	IIB
+JPN 231	Japanese Tales of the Supernatural in English Translation	3	IIB
+JRN 101	Introduction to Journalism	3	IIB
+MAC 143	Introduction to Media	3	IIB
+MUS 182	Discovering Italian Opera	3	IIB
+MUS 184	Opera: Passport to the Liberal Arts	3	IIB
+MUS 185	The Diverse Worlds of Music	3	IIB
+MUS 186	Global Popular Music	3	IIB
+MUS 189	Great Ideas in Western Music	3	IIB
+MUS 206	Tracking Sounds: A History of Film Music	3	IIB
+MUS 225	And the Beat Goes On. . . The History of Rock and Roll	3	IIB
+MUS 285	Introduction to African American Music	3	IIB
+PHL 103	Society and the Individual	3	IIB
+PHL 104	Purpose or Chance in the Universe	3	IIB
+PHL 105	Theories of Human Nature	3	IIB
+PHL 106	Thought and Culture of India	3	IIB
+PHL 131	Introduction to Ethics	3	IIB
+REL 101	Introduction to the Study of Religion	3	IIB
+REL 133	Imagining Russia	3	IIB
+REL 275	Introduction to the Critical Study of Biblical Literature	3	IIB
+REL 286	Global Jewish Civilization	3	IIB
+REL 314	Social and Religious History of the Jewish People	3	IIB
+RUS 137	Russian Folklore	3	IIB
+RUS 257	Communism and Catastrophe in Modern Russian Literature	3	IIB
+ENG 267	Communism and Catastrophe in Modern Russian Literature	3	IIB
+SPN 315	Intro to Hispanic Literatures	3	IIB
+THE 123	Acting for the Non-Major: Text and Performance	3	IIB
+WGS 202	Introduction to GLBT Studies	3	IIB
+WST 201	Self and Place	3	IIB
+AAA 201	Introduction to Asian/ Asian American Studies	3	IIC
+AAA 207	Asia and Globalization	3	IIC
+ASO 201	Introduction to Applied Social Research	3	IIC
+ATH 145	Lost Cities & Ancient Civilizations	3	IIC
+ATH 155	Introduction to Anthropology	3	IIC
+ATH 175	Peoples of the World	3	IIC
+ATH 185	Cultural Diversity in the U.S.	3	IIC
+ATH 235	Imagining and Encountering the Anthropological Other	3	IIC
+ATH 313	Latin American Archaeology	3	IIC
+ATH 405	Food, Taste, and Desire	3	IIC
+ATH 505	Food, Taste, and Desire	3	IIC
+CJS 101	Introduction to the Criminal Justice Studies	3	IIC
+CJS 451	Comparative Justice Systems	3	IIC
+CJS 551	Comparative Justice Systems	3	IIC
+CMR 106	Introduction to Business and the Economy	3	IIC
+CMR 117	Personal Finance, An Introduction	3	IIC
+CRE 151	Introduction to Critical Race and Ethnic Studies	3	IIC
+ECO 131	Economic Perspectives on Inequality in America	3	IIC
+ECO 201	Principles of Microeconomics	3	IIC
+ECO 202	Principles of Macroeconomics	3	IIC
+EDL 203	Introduction to Critical Youth Studies	3	IIC
+EDL 232	Introduction to Community-Based Leadership	3	IIC
+EDP 101	Psychology Of The Learner	3	IIC
+EDP 201	Human Development and Learning in Social and Educational Contexts	3	IIC
+EDP 256	Psychology of the Exceptional Learner	3	IIC
+EDP 279	Technology  + Media Literacy and Learning	3	IIC
+EDP 366	Cross-cultural Examination of the United States and China within an Educational Context	3	IIC
+ENG 201	Special Topics in Language Awareness	3	IIC
+FSW 142	Exploring Helping Professions	3	IIC
+FSW 206	Social Welfare Policies & Programs	4	IIC
+FSW 245	Children and Families: Ages Conception - 12	3	IIC
+FSW 261	Diverse Family Systems Across the Life Cycle	3	IIC
+GEO 101	Global Forces, Local Diversity	3	IIC
+GEO 111	World Regional Geography: Patterns and Issues	3	IIC
+GEO 201	Geography of Urban Diversity	3	IIC
+GIC 101	Global and Intercultural Studies	3	IIC
+GIC 301	Approaches to Global and Intercultural Studies: Globalization and Belonging	3	IIC
+GTY 154	Big Ideas in Aging	3	IIC
+IDS 159	Strength Through Cultural Diversity	3	IIC
+ITS 201	Introduction to International Studies	3	IIC
+KNH 125	Introduction to Public Health	3	IIC
+KNH 188	Physical Activity and Health	3	IIC
+KNH 206	AIDS: Etiology, Prevalence, and Prevention	3	IIC
+KNH 214	Global Well-Being	3	IIC
+KNH 242	Personal Health	3	IIC
+KNH 276	Current Issues in Leisure and Sport	3	IIC
+LAS 207	Latin America before 1910	3	IIC
+LAS 208	Introduction to Latin America	3	IIC
+ATH 206	Introduction to Latin America	3	IIC
+MGT 111	Introduction to Business	3	IIC
+POL 142	American Politics and Diversity	3	IIC
+POL 221	Comparative Politics	3	IIC
+POL 241	American Political System	3	IIC
+POL 271	World Politics	3	IIC
+PSY 111	Introduction to Psychology	3	IIC
+SOC 151	Social Relations	4	IIC
+SOC 153	Sociology in a Global Context	3	IIC
+SPA 127	Introduction to Communication Disorders	3	IIC
+SPA 223	Theories of Language Development	3	IIC
+STC 136	Introduction to Interpersonal Communication	3	IIC
+WGS 201	Introduction to Women's Studies	3	IIC
+AAA 201	Introduction to Asian/ Asian American Studies	3	IIIB
+AAA 207	Asia and Globalization	3	IIIB
+AMS 207	America: Global and Intercultural Perspectives	3	IIIB
+ARC 107	Global Design	3	IIIB
+ART 162	Arts of Africa, Oceania and Native America	3	IIIB
+ART 309	The Arts of African Peoples	3	IIIB
+ASO 201	Introduction to Applied Social Research	3	IIIB
+ATH 145	Lost Cities & Ancient Civilizations	3	IIIB
+ATH 155	Introduction to Anthropology	3	IIIB
+ATH 175	Peoples of the World	3	IIIB
+ATH 185	Cultural Diversity in the U.S.	3	IIIB
+ATH 235	Imagining and Encountering the Anthropological Other	3	IIIB
+ATH 307	The Middle East: Anthropological Perspectives	3	IIIB
+ATH 313	Latin American Archaeology	3	IIIB
+ATH 358	Travelers, Migrants, and Refugees: Transnational Migration and Diasporic Communities	3	IIIB
+ATH 361	Language and Power	3	IIIB
+ATH 405	Food, Taste, and Desire	3	IIIB
+ATH 505	Food, Taste, and Desire	3	IIIB
+ATH 426	Field Research	4-6	IIIB
+BWS 156	Introduction to Africa	4	IIIB
+CEC 266	Metal on Metal: Engineering and Globalization in Heavy Metal Music	3	IIIB
+CHI 257	Chinese Satire	3	IIIB
+CIT 448	Global and Strategic Issues in Information Technology	3	IIIB
+CJS 451	Comparative Justice Systems	3	IIIB
+CJS 551	Comparative Justice Systems	3	IIIB
+CMR 244	Introduction to Global Business	3	IIIB
+CMR 402	Cross Cultural Leadership Skills	3	IIIB
+CRE 151	Introduction to Critical Race and Ethnic Studies	3	IIIB
+EDP 366	Cross-cultural Examination of the United States and China within an Educational Context	3	IIIB
+EDT 202	Global Childhood Education: Diversity, Education & Society	3	IIIB
+EDT 205	Race, Cultural Diversity, and Equity in Education	3	IIIB
+EDT 221	Teaching English Language Learners in PK-12: Culture & Second Language Acquisition	3	IIIB
+EDT 323	Teaching English Language Learners in PK-12: Instructional Theories & Practices	3	IIIB
+EDT 425	Teaching English Language Learners in PK-12: Active Learning & Literacy	3	IIIB
+ENG 108	U.S. Cultures & Composition for Second-Language Writers	4	IIIB
+ENG 163	Literature and Travel	3	IIIB
+ENG 251	Introduction to European Literature	3	IIIB
+ENG 410	Selected Topics in Linguistics	3	IIIB
+FRE 131	Masterpieces of French Culture in Translation	3	IIIB
+FRE 202	Critical Analysis of French Culture	3	IIIB
+GEO 101	Global Forces, Local Diversity	3	IIIB
+GEO 111	World Regional Geography: Patterns and Issues	3	IIIB
+GER 232	The Holocaust in German Literature, History, and Film	3	IIIB
+GER 252	The German-Jewish Experience	3	IIIB
+GER 321	Cultural Topics in German-Speaking Europe Since 1870	3	IIIB
+GER 322	Comparative Study of Everyday Culture: German-Speaking Europe and the U.S.A.	3	IIIB
+GHS 101	Introduction to Global Health	3	IIIB
+GIC 101	Global and Intercultural Studies	3	IIIB
+GIC 301	Approaches to Global and Intercultural Studies: Globalization and Belonging	3	IIIB
+GIC 228	Cuba In Transition	6	IIIB
+GTY 260	Global Aging	3	IIIB
+HST 197	World History to 1500	3	IIIB
+HST 198	World History Since 1500	3	IIIB
+HST 231	Genocides in the 20th Century	3	IIIB
+HST 238	Food in History	3	IIIB
+HST 245	Making of Modern Europe, 1450-1750	3	IIIB
+HST 296	World History Since 1945	3	IIIB
+IDS 159	Strength Through Cultural Diversity	3	IIIB
+IMS 397	Inside the Startup Environment (SF)	3	IIIB
+ITS 201	Introduction to International Studies	3	IIIB
+KNH 213	Global and Community Nutrition	3	IIIB
+KNH 214	Global Well-Being	3	IIIB
+KNH 448	Global Sport Perspectives	3	IIIB
+KNH 548	Global Sport Perspectives	3	IIIB
+LAS 208	Introduction to Latin America	3	IIIB
+ATH 206	Introduction to Latin America	3	IIIB
+MUS 185	The Diverse Worlds of Music	3	IIIB
+MUS 186	Global Popular Music	3	IIIB
+POL 221	Comparative Politics	3	IIIB
+POL 271	World Politics	3	IIIB
+REL 133	Imagining Russia	3	IIIB
+REL 286	Global Jewish Civilization	3	IIIB
+RUS 137	Russian Folklore	3	IIIB
+RUS 255	Love and Death in Nineteenth-Century Russian Literature	3	IIIB
+RUS 257	Communism and Catastrophe in Modern Russian Literature	3	IIIB
+ENG 267	Communism and Catastrophe in Modern Russian Literature	3	IIIB
+SOC 153	Sociology in a Global Context	3	IIIB
+SOC 165	Introduction to Social Justice Studies	3	IIIB
+SPN 392	Language and the Latin American Diaspora	3	IIIB
+WGS 201	Introduction to Women's Studies	3	IIIB
+BIO 101	Biotechnology: Coming of Age in the 21st Century	3	IVA
+BIO 121	Environmental Biology	3	IVA
+BIO 126	Evolution: Just a theory?	3	IVA
+BIO 131	Plants, Humanity, and Environment	3	IVA
+BIO 155	Field Botany	3	IVA
+BIO 161	Principles of Human Physiology	4	IVA
+BIO 171	Human Anatomy and Physiology	4	IVA
+BIO 176	Ecology of North America	3	IVA
+BIO 191	Plant Biology	4	IVA
+IES 278	Introduction to Food Systems	3	IVA
+MBI 111	Microorganisms and Human Disease	3	IVA
+MBI 121	The Microbial World	3	IVA
+MBI 123	Experimenting with Microbes	1	IVA
+MBI 131	Community Health Perspectives	3	IVA
+MBI 143	Parasitology and Mycology Labs	1	IVA
+MBI 161	Elementary Medical Microbiology	4	IVA
+CHM 111	Chemistry in Modern Society	3	IVB
+CHM 111L	Chemistry in Modern Society Laboratory	1	IVB
+CHM 121	Introduction to Forensic Chemistry	4	IVB
+CHM 131	Chemistry of Life Processes	4	IVB
+CHM 144	College Chemistry Laboratory	2	IVB
+CHM 144M	College Chemistry Laboratory for Majors	2	IVB
+EDT 181	Physical Science and Society	4	IVB
+EDT 182	Earth Science and Society	4	IVB
+GEO 121	Earth's Physical Environment	4	IVB
+GEO 122	Geographic Perspectives on the Environment	3	IVB
+GLG 111	The Dynamic Earth	3	IVB
+GLG 115L	Understanding the Earth	1	IVB
+GLG 121	Environmental Geology	3	IVB
+GLG 141	Geology of U.S. National Parks	3	IVB
+PHY 101	Physics and Society	3	IVB
+PHY 103	Concepts in Physics Laboratory	1	IVB
+PHY 111	Astronomy and Space Physics	3	IVB
+PHY 118	Introduction to Atmospheric Science	3	IVB
+PHY 121	Energy and Environment	3	IVB
+PHY 131	Physics for Music	3	IVB
+PHY 141	Physics in Sports	3	IVB
+PHY 161	Physics for the Life Sciences with Laboratory I	4	IVB
+PHY 162	Physics for the Life Sciences with Laboratory II	4	IVB
+PHY 191	General Physics with Laboratory I	5	IVB
+PHY 192	General Physics with Laboratory II	5	IVB
+ARC 212	Principles of Environmental Systems	3	V
+CCA 111	Innovation, Creativity and Design Thinking	3	V
+CEC 266	Metal on Metal: Engineering and Globalization in Heavy Metal Music	3	V
+CMR 282	Computer-Based Business Analysis	3	V
+CSE 151	Computers, Computer Science, and Society	3	V
+CSE 163	Introduction to Computer Concepts and Programming	3	V
+CSE 243	Problem Analysis Using Computer Tools	3	V
+IMS 222	Introduction to Interaction Design and Development	3	V
+MTH 115	Mathematics for Teachers of Grades P-6	4	V
+MTH 121	Finite Mathematical Models	3	V
+MTH 151	Calculus I	5	V
+MTH 249	Calculus II	5	V
+PHL 273	Formal Logic	4	V
+STA 261	Statistics	4	V
+THE 257	Stagecraft and Theatre Technologies	3	V
